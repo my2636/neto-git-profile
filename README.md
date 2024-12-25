@@ -1,6 +1,6 @@
 # Профиль: Марина Ючко
 
-[Здесь будет кот](profile/Black_cat_smaller.jpg)
+[Здесь будет кот]()
 
 # A first-level features
 - __Изучаю Java и Spring ❤️__
