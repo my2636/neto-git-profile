@@ -2,16 +2,16 @@
 
 ![Здесь будет кот](https://timeweb.com/ru/community/article/76/764f95f44260ef4aafaa2e80a0f59784.jpg)
 
-# A first-level features
+# First-level features
 - __Изучаю Java и Spring ❤️__
 - У меня есть кот[^1]
 - Люблю спорт _(заочно)_[^2]
 
-## A second-level features
+## Second-level features
 - любимый цвет `#00ffff`
 - любимый сериал Теория Большого взрыва
 
-### A third-level features
+### Third-level features
 - никогда не прыгала с парашютом _(и не хочу)_
 
 
